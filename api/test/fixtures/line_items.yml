@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ballot_id: 
+  beer_id: 
+  weight: 1
+
+two:
+  ballot_id: 
+  beer_id: 
+  weight: 1
